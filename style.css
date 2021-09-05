@@ -26,8 +26,8 @@ body {
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    height: 720px;
-    width: 1080px;
+    height: auto;
+    width: auto;
     borer-top-width: 10px;
     borer-bottom-width: 10px;
     borer-left-width: 10px;
